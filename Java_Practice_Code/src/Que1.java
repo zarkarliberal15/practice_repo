@@ -1,6 +1,6 @@
 
 /*
- *  Swap 2 variable without using 3rd variable
+ * Q.1 Swap 2 variable without using 3rd variable
  */
 public class Que1 {
 
