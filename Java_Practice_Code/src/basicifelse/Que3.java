@@ -1,3 +1,4 @@
+package basicifelse;
 import java.util.Scanner;
 
 /*
